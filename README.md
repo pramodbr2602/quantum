@@ -25,3 +25,4 @@ Roadmap :
 Over time, I aim for Quantum to cover a broad range of subjects, each with a practical, code-driven approach—demonstrating not just theory, but hands-on experimental learning in Python and other scientific computing tools.
 
 Contributions and suggestions for new topics are welcome as the collection grows.
+The above last commit was reagardinng the 4-Qubit identifying defects while it is trained with machine learning with qiskit module of quantum environment and in the ouput we got clear output of defects caused and analzyed with histograms .
